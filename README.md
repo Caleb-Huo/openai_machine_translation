@@ -1,4 +1,4 @@
-## openai_rewrite_email
+## openai machine translation (speech to speech)
 - Machine translation based on procedure-based programming: procedure.ipynb
 - Machine translation based on OOP: translate.ipynb
    
